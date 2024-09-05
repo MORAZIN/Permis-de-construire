@@ -20,7 +20,7 @@ Aménagement des itinéraires techniques, la planification des travaux, et la ge
 
 
 # Contact
-Nom : Mme Indrani MORAZIN
-Téléphone : 06 93 60 10 73
-Courriel : indrani8richard@gmail.com
+Nom : Mme Indrani MORAZIN    
+Téléphone : 06 93 60 10 73     
+Courriel : indrani8richard@gmail.com     
 
